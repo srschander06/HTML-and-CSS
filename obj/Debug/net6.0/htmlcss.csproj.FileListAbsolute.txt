@@ -1,0 +1,15 @@
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/bin/Debug/net6.0/htmlcss
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/bin/Debug/net6.0/htmlcss.deps.json
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/bin/Debug/net6.0/htmlcss.runtimeconfig.json
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/bin/Debug/net6.0/htmlcss.dll
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/bin/Debug/net6.0/htmlcss.pdb
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/htmlcss.csproj.AssemblyReference.cache
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/htmlcss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/htmlcss.AssemblyInfoInputs.cache
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/htmlcss.AssemblyInfo.cs
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/htmlcss.csproj.CoreCompileInputs.cache
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/htmlcss.dll
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/refint/htmlcss.dll
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/htmlcss.pdb
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/htmlcss.genruntimeconfig.cache
+/Users/ssssfam/Desktop/htmlcss/htmlcss/htmlcss/obj/Debug/net6.0/ref/htmlcss.dll
